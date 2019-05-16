@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://tuuhungoh.magdalenaklasik.pl/sitemap.xml
